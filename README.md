@@ -67,6 +67,7 @@ cv2.waitKey(0)
 ### Display the input Image
 <br>
 <br>
+
 ![image](https://github.com/praveenst13/EROSION-AND-DILATION/assets/118787793/b8965373-6225-4b58-a8fa-0eb45d8b3d5b)
 
 <br>
@@ -78,6 +79,7 @@ cv2.waitKey(0)
 <br>
 <br>
 <br>
+
 ![image](https://github.com/praveenst13/EROSION-AND-DILATION/assets/118787793/d46a495f-9e61-404f-b1b9-cdd9da2946c1)
 
 <br>
@@ -88,6 +90,7 @@ cv2.waitKey(0)
 <br>
 <br>
 <br>
+
 ![image](https://github.com/praveenst13/EROSION-AND-DILATION/assets/118787793/5e999ea7-a0e3-45c9-b45e-1fea81868900)
 
 <br>
