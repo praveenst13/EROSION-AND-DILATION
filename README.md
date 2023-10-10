@@ -13,20 +13,18 @@ Import the necessary libraries (OpenCV and NumPy).
 
 
 ### Step2:
-Use cv2.putText to add the text "PRAVEEN-S" to the img1 image at specific coordinates.
-
-<br>
+Use cv2.putText to add the text  to the img1 image at specific coordinates.
 
 
 ### Step3:
 Define two kernels (kernel and kernel1) for morphological operations.
-<br>
+
 
 ### Step4:
 
 Display the eroded image using cv2.imshow.
 
-<br>
+
 
 ### Step5:
 Use cv2.waitKey(0) to wait for a key press indefinitely.
